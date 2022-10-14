@@ -3,7 +3,7 @@ package javaBasics;
 import java.util.Scanner;
 
 //Arrays
-public class ApnaCollage {
+public class ApnaCollage1 {
 
 	// Driver program to test above function
 	public static void main (String[] args)
